@@ -1,5 +1,5 @@
 <?php
-// Google map location array changes.
+// Google map location array changes second time.
 function get_map_locations()
 {
 	$html = ' ["Title 1", -31.563910, 147.154312],
